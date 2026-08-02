@@ -6,7 +6,9 @@ An AI-powered support assistant that answers intern queries instantly using sema
 
 Develop an AI chatbot to automate real-time responses to common intern queries task submission, deadlines, certificates, technical issues, etc. reducing the need for manual back-and-forth with mentors and support staff.
 
+## 🚀 Live Demo
 
+(https://internship-support-chatbot-lfbk8hn4z9lzu7zmawyej9.streamlit.app/)
 
 ## 🧠 How It Works
 
