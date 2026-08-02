@@ -1,0 +1,21 @@
+answer_id,category,answer
+A001,Task submission,"To submit your task, log in to your dashboard, open the current task card, and click the 'Submit Work' button. Make sure all required files are attached before submitting."
+A002,Deadlines,Each task's deadline is mentioned on its task card in the dashboard. Please submit before the deadline; late submissions may not be considered unless an extension is granted.
+A003,Mentor contact,You can reach your mentor through the official WhatsApp group or by emailing the support team along with your intern ID and query.
+A004,Certificates,Certificates are issued after you successfully complete and submit all required tasks. It usually takes a few working days to generate once your final task is approved.
+A005,Attendance,Attendance is tracked based on your task submissions and activity on the dashboard; there is no separate daily check-in required.
+A006,Profile update,"To update your profile, go to the 'My Profile' section on the dashboard, click 'Edit', make your changes, and save."
+A007,Dashboard issues,"If the dashboard isn't loading properly, try clearing your browser cache, refreshing the page, or switching browsers. If the issue continues, report it to support with a screenshot."
+A008,Login problems,"If you're unable to log in, double-check your registered email and password. If the issue persists, reset your password or contact support."
+A009,Password reset,"To reset your password, click 'Forgot Password' on the login page, enter your registered email, and follow the link sent to your inbox."
+A010,Internship duration,"Your internship duration is mentioned in your offer letter/onboarding email, typically ranging from 4 to 8 weeks depending on the track."
+A011,Task evaluation,"Tasks are evaluated by mentors based on completeness, correctness, and adherence to the given instructions. You'll receive a status update or feedback on your dashboard."
+A012,Resubmission,"If your task is marked for resubmission, review the mentor's feedback, make the required changes, and resubmit through the same task card."
+A013,Feedback,Feedback on your tasks is shared on your dashboard under the task status section. Check there after your submission has been reviewed.
+A014,Completion status,"Your completion status is visible on the dashboard, showing which tasks are pending, in review, or approved."
+A015,Technical issues,"For technical issues like errors, broken links, or upload failures, please report them to support with a screenshot and a short description of the problem."
+A016,Team projects,"For team-based tasks, coordinate with your assigned teammates and submit as instructed on the task card, whether individually or as a team submission."
+A017,GitHub submission,"For tasks requiring GitHub, push your code to a public repository and paste the repository link in the submission field on your dashboard."
+A018,Streamlit deployment,"If deployment is required, deploy your Streamlit app (e.g. via Streamlit Community Cloud) and share the live app link along with your GitHub repo link."
+A019,Project requirements,Detailed project requirements are listed in the 'Task Instructions' section of each task card. Please read them carefully before starting work.
+A020,AI usage policy,"You may use AI tools for learning and assistance, but your final work should reflect your own understanding. Fully copy-pasted AI output without review may affect your evaluation."

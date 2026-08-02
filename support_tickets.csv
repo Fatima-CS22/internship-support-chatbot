@@ -1,0 +1,37 @@
+ticket_message,answer_id,category
+"My task submission keeps failing, I get an error every time I click submit.",A001,Task submission
+"I can't find the submit button on my dashboard, where is it?",A001,Task submission
+"The deadline is tomorrow, is it possible to get an extension?",A002,Deadlines
+"I submitted a bit late, will this be a problem?",A002,Deadlines
+How do I get my mentor's contact info? I have a question.,A003,Mentor contact
+No one is replying in the WhatsApp group for a few days now.,A003,Mentor contact
+I still haven't received my certificate even though I completed all tasks.,A004,Certificates
+"There's a spelling mistake in my name on the certificate, how do I fix it?",A004,Certificates
+"Do I need to mark attendance every day, is there a form for it?",A005,Attendance
+"I missed logging in for 2 days, will that cause an issue?",A005,Attendance
+I can't change my profile picture even after clicking edit.,A006,Profile update
+"I need to update my phone number on my profile, how do I do that?",A006,Profile update
+"The dashboard has been extremely slow since yesterday, it won't load.",A007,Dashboard issues
+Is the website down for everyone or just me?,A007,Dashboard issues
+I'm entering the correct password but it still won't let me log in.,A008,Login problems
+"I think my account got locked, how do I unlock it?",A008,Login problems
+The forgot password email isn't showing up in my inbox.,A009,Password reset
+I clicked the reset link but it says it's expired.,A009,Password reset
+I'm not sure how many weeks this internship actually runs for.,A010,Internship duration
+Can you confirm the end date of the internship?,A010,Internship duration
+"What's the status of my task, did it pass or fail?",A011,Task evaluation
+Where can I find the evaluation criteria for this task?,A011,Task evaluation
+"My task got rejected, how do I resubmit it?",A012,Resubmission
+I don't see a resubmission option on my dashboard.,A012,Resubmission
+Where will I be able to see my mentor's feedback on my task?,A013,Feedback
+There's no comment showing after my task was reviewed.,A013,Feedback
+How many tasks do I still have left to complete?,A014,Completion status
+The progress bar on my dashboard isn't showing at all.,A014,Completion status
+I'm getting a 500 error every time I try to upload my file.,A015,Technical issues
+The page crashes whenever I click the submit button.,A015,Technical issues
+"My teammate hasn't done their part, what should I do now?",A016,Team projects
+Can a group task be submitted individually instead?,A016,Team projects
+Should my GitHub repo be public or private for submission?,A017,GitHub submission
+Where exactly do I paste my GitHub link on the submission form?,A017,GitHub submission
+"My Streamlit app isn't deploying, I keep getting an error.",A018,Streamlit deployment
+Is a live deployed link required or is the code alone enough?,A018,Streamlit deployment

@@ -1,0 +1,89 @@
+question,answer_id,category
+How do I submit my task?,A001,Task submission
+Where can I upload my project?,A001,Task submission
+How can I submit my assignment?,A001,Task submission
+Where do I submit my internship work?,A001,Task submission
+What is the process to submit a task?,A001,Task submission
+"I finished my task, how do I turn it in?",A001,Task submission
+When is my task due?,A002,Deadlines
+What is the deadline for this task?,A002,Deadlines
+Is there a fixed submission deadline?,A002,Deadlines
+Can I know the last date to submit?,A002,Deadlines
+What happens if I miss the deadline?,A002,Deadlines
+How do I contact my mentor?,A003,Mentor contact
+Who do I ask if I have a question about my task?,A003,Mentor contact
+Is there a way to message my mentor directly?,A003,Mentor contact
+How can I reach out to my supervisor?,A003,Mentor contact
+Where do I go for mentor support?,A003,Mentor contact
+When will I get my certificate?,A004,Certificates
+How do I receive my internship certificate?,A004,Certificates
+What are the requirements for getting a certificate?,A004,Certificates
+Will I get a certificate after finishing all tasks?,A004,Certificates
+How long does it take to issue the certificate?,A004,Certificates
+Do I need to mark attendance daily?,A005,Attendance
+How is attendance tracked in this internship?,A005,Attendance
+Is there a check-in system for attendance?,A005,Attendance
+Does missing a day affect my internship?,A005,Attendance
+How do I update my profile information?,A006,Profile update
+Where can I change my personal details?,A006,Profile update
+How do I edit my name or contact info?,A006,Profile update
+Can I update my profile picture?,A006,Profile update
+How to change my email on the dashboard?,A006,Profile update
+"The dashboard is not loading, what do I do?",A007,Dashboard issues
+"My dashboard is stuck, how to fix it?",A007,Dashboard issues
+"Dashboard keeps showing an error, help?",A007,Dashboard issues
+Why isn't my dashboard opening?,A007,Dashboard issues
+"The site is very slow, is this normal?",A007,Dashboard issues
+"I can't log in to my account, what should I do?",A008,Login problems
+"Login is not working, please help",A008,Login problems
+Why is it saying invalid credentials?,A008,Login problems
+I'm stuck at the login page,A008,Login problems
+My account won't let me sign in,A008,Login problems
+"I forgot my password, how do I reset it?",A009,Password reset
+How can I change my password?,A009,Password reset
+I need to reset my login credentials,A009,Password reset
+"The reset password link isn't working, what now?",A009,Password reset
+How long is this internship?,A010,Internship duration
+What is the total duration of the internship program?,A010,Internship duration
+How many weeks does this internship run for?,A010,Internship duration
+When does my internship end?,A010,Internship duration
+How are my tasks graded?,A011,Task evaluation
+What criteria is used to evaluate my submission?,A011,Task evaluation
+How do I know if my task passed evaluation?,A011,Task evaluation
+On what basis are tasks reviewed?,A011,Task evaluation
+"My task got rejected, what do I do now?",A012,Resubmission
+How do I resubmit my task after feedback?,A012,Resubmission
+"I need to redo my task, how does resubmission work?",A012,Resubmission
+What happens if my submission is marked for correction?,A012,Resubmission
+Where can I see feedback on my task?,A013,Feedback
+How will I know what I did wrong?,A013,Feedback
+Is there a way to view mentor comments?,A013,Feedback
+Where does the review feedback appear?,A013,Feedback
+How do I check my task completion status?,A014,Completion status
+Where can I see which tasks are pending?,A014,Completion status
+How do I know if my task was approved?,A014,Completion status
+Is there a progress tracker for tasks?,A014,Completion status
+"I'm getting an error while uploading files, what should I do?",A015,Technical issues
+"A link on the dashboard is broken, who do I report to?",A015,Technical issues
+"Something isn't working technically, how do I get help?",A015,Technical issues
+"My file upload keeps failing, any fix?",A015,Technical issues
+How do team-based tasks work?,A016,Team projects
+Do I need to coordinate with teammates for group tasks?,A016,Team projects
+How is a team project submitted?,A016,Team projects
+Who do I contact if my team members aren't responding?,A016,Team projects
+Do I need to submit my code on GitHub?,A017,GitHub submission
+How do I share my GitHub repository link?,A017,GitHub submission
+Should my repo be public or private?,A017,GitHub submission
+Where do I paste my GitHub link for submission?,A017,GitHub submission
+Do I need to deploy my Streamlit app?,A018,Streamlit deployment
+How do I share my deployed app link?,A018,Streamlit deployment
+Where do I host my Streamlit project?,A018,Streamlit deployment
+Is deployment mandatory for this task?,A018,Streamlit deployment
+Where can I find the exact requirements for this task?,A019,Project requirements
+What are the deliverables expected for this project?,A019,Project requirements
+Is there a detailed instructions page for tasks?,A019,Project requirements
+What exactly needs to be included in my submission?,A019,Project requirements
+Am I allowed to use ChatGPT or AI tools for my tasks?,A020,AI usage policy
+Is using AI for assignments against the rules?,A020,AI usage policy
+Can I use AI-generated code in my submission?,A020,AI usage policy
+What is the policy on using AI tools like Claude or ChatGPT?,A020,AI usage policy
